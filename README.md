@@ -5,13 +5,9 @@
 ## 🚀 About Me
  👋 Hi, I’m Naimur Rahman (@naimur-234964)
 
-I'm a full stack developer...
-
-Currently I'm working on Laravel Projects. I'm learning Ract.js
-
 
 ## 🛠 Skills
-HTML, CSS, Javascript, PHP, Laravel
+HTML, CSS, Javascript
 
 
 ## 🔗 Links
@@ -21,9 +17,9 @@ HTML, CSS, Javascript, PHP, Laravel
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on - Laravel
+👩‍💻 I'm currently working on - HTML, CSS, JavaScript
 
-🧠 I'm currently learning - React.js
+🧠 I'm currently learning - PHP
 
 👯‍♀️ I'm looking to collaborate on - Laravel Projects
 
