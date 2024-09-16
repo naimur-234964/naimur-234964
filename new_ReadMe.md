@@ -1,7 +1,7 @@
 # Hi, I'm Naimur Rahman! 👋
 
-## 🚀 About Me
- 👋 Hi, I’m Naimur Rahman (@naimur-234964)
+## 🛠 Skills
+HTML, CSS, JavaScript, Bootstrap, jQuery
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -14,8 +14,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-234964&" alt="naimur-234964" />
 </div>
 
-## 🛠 Skills
-HTML, CSS, Javascript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
