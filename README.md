@@ -73,6 +73,17 @@
 - 🤝 I’m looking for help with **Full Stack Learning**
 - 📫 How to reach me - **nrsazib234964@gmail.com**
 
+# Certificates
+
+<div>
+  <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 250px; height: auto; margin-right: 10px;"/>
+<!--   <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 250px; height: auto; margin-right: 10px;"/> -->
+<!--   <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 250px; height: auto;"/> -->
+</div>
+
+
+
+
 ### Connect with me:
 <p align="left">
   <a href="https://twitter.com/naimur-rahman" target="blank">
