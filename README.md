@@ -2,12 +2,6 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=naimur-234964&margin-w=20" alt="naimur-234964" />
-  </a>
-</p>
-
 ### Languages and Tools:
 
 <p align="left">
@@ -53,17 +47,22 @@
   </a> -->
 </p>
 
-
 ---
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=naimur-234964&margin-w=20" alt="naimur-234964" />
+  </a>
+</p>
+<br>
+
+
 <div align="center">
-  <h3>Github Stats : </h3>
-  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimur-234964&show_icons=true&locale=en" alt="naimur-234964" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-234964&" alt="naimur-234964" />
 </div>
 
-<br><br>
+<br>
 
 ## Additional Information
 
