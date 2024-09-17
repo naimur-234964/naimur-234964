@@ -58,8 +58,8 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimur-234964&show_icons=true&locale=en" alt="naimur-234964" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-234964&" alt="naimur-234964" />
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=naimur-234964&show_icons=true&locale=en" alt="GitHub stats for Naimur Rahman" />
+  <img width="320px" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-234964" alt="GitHub streak stats for Naimur Rahman" />
 </div>
 
 <br>
