@@ -78,6 +78,7 @@
   <img src="https://github.com/naimur-234964/certificates/blob/main/freecodecamp%20-%20Responsive%20Web%20Design.png?raw=true" alt="freecodecamp - Responsive Web Design" style="width: 300px; height: auto; margin-right: 10px;"/>
   <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 300px; height: auto; margin-right: 10px;"/>
 <!--   <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 250px; height: auto;"/> -->
+<!--   <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 250px; height: auto;"/> -->
 </div>
 
 
