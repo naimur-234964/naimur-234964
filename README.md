@@ -64,14 +64,6 @@
 
 <br>
 
-## Additional Information
-
-- 🔭 I’m currently working on **Frontend Projects**
-- 🌱 I’m currently learning **PHP, Laravel**
-- 👯 I’m looking to collaborate on **Backend Projects**
-- 🤝 I’m looking for help with **Full Stack Learning**
-- 📫 How to reach me - **nrsazib234964@gmail.com**
-
 # Certificates
 
 <div>
@@ -80,6 +72,15 @@
 <!--   <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 250px; height: auto;"/> -->
 <!--   <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 250px; height: auto;"/> -->
 </div>
+
+## Additional Information
+
+- 🔭 I’m currently working on **Frontend Projects**
+- 🌱 I’m currently learning **PHP, Laravel**
+- 👯 I’m looking to collaborate on **Backend Projects**
+- 🤝 I’m looking for help with **Full Stack Learning**
+- 📫 How to reach me - **nrsazib234964@gmail.com**
+
 
 
 
