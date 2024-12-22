@@ -64,7 +64,8 @@
 # Certificates
 
 <div>
-  <img src="https://github.com/naimur-234964/certificates/blob/main/freecodecamp%20-%20Responsive%20Web%20Design.png?raw=true" alt="freecodecamp - Responsive Web Design" style="width: 300px; height: auto; margin-right: 10px;"/>
+  <img src="https://github.com/naimur-234964/certificates/blob/main/Naimur%20Rahman-1_page-0001.jpg?raw=true" alt="NSDA Certificate - Web Design and Development for Freelancing (level - 3)" style="width: 300px; height: auto; margin-right: 10px;"/>
+  <img src="https://github.com/naimur-234964/certificates/blob/main/freecodecamp%20-%20Responsive%20Web%20Design.png?raw=true" alt="FreeCodeCamp - Responsive Web Design" style="width: 300px; height: auto; margin-right: 10px;"/>
   <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 300px; height: auto; margin-right: 10px;"/>
 <!--   <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 250px; height: auto;"/> -->
 <!--   <img src="https://github.com/naimur-234964/certificates/blob/main/HTML%20-%20SoloLearn.jpg?raw=true" alt="HTML SoloLearn" style="width: 250px; height: auto;"/> -->
